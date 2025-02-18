@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["dicord.gg/ValoVault"];
+const statusMessages = ["https://github.com/INeedOptiFabric/Bot-ghost-status-remover-by-RTX"];
 
 
 let currentIndex = 0;
